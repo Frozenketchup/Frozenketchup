@@ -1,14 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Naman Rai</h1>
+
 
 - 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on My Portfolio.
+- 👯 I’m looking to collaborate on We Dev Projects.
+- 🤔 I’m looking for help with Data Structures.
 - 💬 Ask me about mySQL, C, Java, HTML, CSS & Tech Related Stuffs.
 - 📫 How to reach me: frozenketchup1046@gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Listens to music most of the time.
 
-### Connect with me:
+## Connect with me:
 
 <a href="https://www.linkedin.com/in/namanrai1046/">
   <img align="left" alt="frozenketchup - LinkedIn" width="22px" src="https://raw.githubusercontent.com/Frozenketchup/Frozenketchup/main/assets/linkedin.svg" />
@@ -28,6 +30,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
@@ -45,7 +48,7 @@
 
 
 
-### GitHub stats:
+## GitHub stats:
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=frozenketchup&show_icons=true&include_all_commits=true&theme=react" />
