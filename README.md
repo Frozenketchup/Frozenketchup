@@ -11,10 +11,10 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/namanrai1046/">
-  <img align="left" alt="frozenketchup - LinkedIn" width="22px" src="https://github.com/frozenketchup/frozenketchup/tree/main/assets/linkedin.svg" />
+  <img align="left" alt="frozenketchup - LinkedIn" width="22px" src="https://raw.githubusercontent.com/frozenketchup/frozenketchup/tree/main/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/namanrai769/">
-  <img align="left" alt="frozenketchup - Instagram" width="22px" src="https://github.com/Frozenketchup/Frozenketchup/tree/main/assets/instagram.svg" />
+  <img align="left" alt="frozenketchup - Instagram" width="22px" src="https://raw.githubusercontent.com/Frozenketchup/Frozenketchup/tree/main/assets/instagram.svg" />
 </a>
 
 
