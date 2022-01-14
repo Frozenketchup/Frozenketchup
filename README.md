@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving myself.
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -11,14 +10,11 @@
 
 ### Connect with me:
 
-<a href="https://github.com/frozenketchup">
-  <img align="left" alt="Aakash Dwivedy - GitHub" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/github.svg" />
+<a href="https://www.linkedin.com/in/namanrai1046/">
+  <img align="left" alt="frozenketchup - LinkedIn" width="22px" src="https://github.com/frozenketchup/frozenketchup/tree/main/assets/linkedin.svg" />
 </a>
-<a href="https://linkedin.com/in/frozenketchup">
-  <img align="left" alt="Aakash Dwivedy - LinkedIn" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/frozenketchup">
-  <img align="left" alt="Aakash Dwivedy - Twitter" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/twitter.svg" />
+<a href="https://www.instagram.com/namanrai769/">
+  <img align="left" alt="frozenketchup - Instagram" width="22px" src="https://github.com/frozenketchup/frozenketchup/tree/main/assets/instagram.svg" />
 </a>
 
 
