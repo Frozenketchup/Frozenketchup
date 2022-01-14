@@ -14,7 +14,7 @@
   <img align="left" alt="frozenketchup - LinkedIn" width="22px" src="https://github.com/frozenketchup/frozenketchup/tree/main/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/namanrai769/">
-  <img align="left" alt="frozenketchup - Instagram" width="22px" src="https://github.com/frozenketchup/frozenketchup/tree/main/assets/instagram.svg" />
+  <img align="left" alt="frozenketchup - Instagram" width="22px" src="https://github.com/Frozenketchup/Frozenketchup/tree/main/assets/instagram.svg" />
 </a>
 
 
