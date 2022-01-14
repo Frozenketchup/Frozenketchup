@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Frozenketchup/Frozenketchup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### GitHub stats:
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=frozenketchup&show_icons=true&include_all_commits=true&theme=react" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=frozenketchup&theme=react" />  
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozenketchup&layout=compact&theme=react" />
+</p>
