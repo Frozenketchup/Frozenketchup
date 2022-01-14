@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on My Portfolio.
 - 👯 I’m looking to collaborate on We Dev Projects.
 - 🤔 I’m looking for help with Data Structures.
-- 💬 Ask me about mySQL, C, Java, HTML, CSS & Tech Related Stuffs.
+- 💬 Ask me about MySQL, C, Java, HTML, CSS & Tech Related Stuffs.
 - 📫 How to reach me: frozenketchup1046@gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Listens to music most of the time.
