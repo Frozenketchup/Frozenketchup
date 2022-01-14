@@ -9,6 +9,21 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Connect with me:
+
+<a href="https://github.com/dwivedyaakash">
+  <img align="left" alt="Aakash Dwivedy - GitHub" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/github.svg" />
+</a>
+<a href="https://linkedin.com/in/dwivedyaakash">
+  <img align="left" alt="Aakash Dwivedy - LinkedIn" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/dwivedyaakash">
+  <img align="left" alt="Aakash Dwivedy - Twitter" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/twitter.svg" />
+</a>
+
+
+<br />
+
 ### GitHub stats:
 
 <p align="center">
