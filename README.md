@@ -1,23 +1,23 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on improving myself.
+- 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about mySQL, C, Java, HTML, CSS & Tech Related Stuffs.
+- 📫 How to reach me: frozenketchup1046@gmail.com
+- 😄 Pronouns: He/His/Him
+- ⚡ Fun fact: Listens to music most of the time.
 
 ### Connect with me:
 
-<a href="https://github.com/dwivedyaakash">
+<a href="https://github.com/frozenketchup">
   <img align="left" alt="Aakash Dwivedy - GitHub" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/github.svg" />
 </a>
-<a href="https://linkedin.com/in/dwivedyaakash">
+<a href="https://linkedin.com/in/frozenketchup">
   <img align="left" alt="Aakash Dwivedy - LinkedIn" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/dwivedyaakash">
+<a href="https://twitter.com/frozenketchup">
   <img align="left" alt="Aakash Dwivedy - Twitter" width="22px" src="https://raw.githubusercontent.com/dwivedyaakash/dwivedyaakash/master/assets/twitter.svg" />
 </a>
 
