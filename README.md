@@ -56,6 +56,7 @@
   <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozenketchup&layout=compact&theme=react" />
 </p>
 
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/frozenketchup/count.svg" />
