@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning JavaScript.
-- 🔭 I’m currently working on My Portfolio.
+- 🔭 I’m currently working on Data Structures.
 - 👯 I’m looking to collaborate on We Dev Projects.
 - 🤔 I’m looking for help with Data Structures.
 - 💬 Ask me about MySQL, C, Java, HTML, CSS & Tech Related Stuffs.
